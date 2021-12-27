@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Twitter Acct Name (used for logging only)",
+    "notionToken": "",
+    "notionDbId": "",
+    "twitterConsumerKey": "",
+    "twitterConsumerSecret": "",
+    "twitterToken": "",
+    "twitterTokenSecret": "",
+    "waitTimeMinutes": 1
+  }
+]

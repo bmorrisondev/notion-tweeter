@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  notion-tweeter:
+    build: .
+    restart: always
+    environment:
+      - TZ=America/Chicago
+    container_name: notion-tweeter
