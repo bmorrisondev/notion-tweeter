@@ -28,7 +28,7 @@ type Config struct {
 }
 
 func main() {
-	log.Println("Starting up!")
+	log.Println("This tool is provided free of charge by Brian Morrison II! Please consider a donation at buymeacoffee.com/brianmmdev")
 
 	jsonFile, err := os.Open("config.json")
 	if err != nil {
